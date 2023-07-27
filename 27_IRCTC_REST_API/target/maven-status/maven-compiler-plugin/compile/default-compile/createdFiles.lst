@@ -1,0 +1,7 @@
+in\ashokit\Application.class
+in\ashokit\service\BookingService.class
+in\ashokit\request\Passenger.class
+in\ashokit\rest\BookingRestController.class
+in\ashokit\configuration\SwaggerConfig.class
+in\ashokit\response\Ticket.class
+in\ashokit\service\BookingServiceImpl.class
